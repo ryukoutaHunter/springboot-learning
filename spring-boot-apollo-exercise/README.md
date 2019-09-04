@@ -82,7 +82,7 @@
 
 #### 2、在portal web中新建项目
 
-![1567576747335](../img/application.png)
+![1567576747335](https://github.com/ryukoutaHunter/springboot-learning/blob/master/spring-boot-apollo-exercise/img/application.png)
 
 
 #### 3、在spring boot工程中创建application.yml
@@ -172,11 +172,11 @@ public class ApolloConfig {
 
 
 
-![1567578082795](../img/web.png)
+![1567578082795](https://github.com/ryukoutaHunter/springboot-learning/blob/master/spring-boot-apollo-exercise/img/web.png)
 
 
 
-![1567578105651](../img/postman.png)
+![1567578105651](https://github.com/ryukoutaHunter/springboot-learning/blob/master/spring-boot-apollo-exercise/img/postman.png)
 
 
 
