@@ -19,6 +19,7 @@
     <module>spring-boot-apollo-exercise</module>
     <module>springboot-rocketmq</module>
     <module>springboot-mongodb</module>
+    <module>springboot-security-boot-1.5-version</module>
   </modules>
 
   <dependencies>
